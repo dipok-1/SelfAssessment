@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns u
+  - Separation of concerns: 🖐️ used
   - Inversion of Control
   - Dependency Injection
   - GoF Creational
@@ -12,7 +12,7 @@
   - CQS
   - Modularity
   - Subsystems
-  - Directories u
+  - Directories: 🖐️ used
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
@@ -23,62 +23,62 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability  ~ 
-  - Quality   ~ 
-  - Availability  ~ 
-  - Flexibility  ~ 
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer *
-  - Domain-specific language (DSL) *
-  - System vs applied code *
-  - Multilayer approach !
+  - Isolation between layer: 🖐️ used
+  - Domain-specific language (DSL): 🖐️ used
+  - System vs applied code: 🖐️ used
+  - Multilayer approach: 🙋 explained
   - Hexagonal architecture
-  - Separation of concerns (SoC) *
+  - Separation of concerns (SoC): 🖐️ used
   - Metaprogramming
   - Inversion of control (IoC)
   - Dependency injection (DI)
-  - Clean architecture *
-  - Domain-driven design (DDD) *
+  - Clean architecture: 🖐️ used
+  - Domain-driven design (DDD): 🖐️ used
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
   - Message Queue (MQ)
-  - CQRS *
+  - CQRS: 🖐️ used
   - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
   - UML
-  - Work breakdown structure *
-  - Budget estimation h
+  - Work breakdown structure: 🖐️ used
+  - Budget estimation: 👂 heard
   - Distributed systems
   - High-intensive computing
-  - Load balancing h
+  - Load balancing: 👂 heard
   - Gateways
-  - On-premises h
-  - IaaS h
-  - PaaS h
-  - SaaS h
+  - On-premises: 👂 heard
+  - IaaS: 👂 heard
+  - PaaS: 👂 heard
+  - SaaS: 👂 heard
   - FaaS clouds
-  - Serverless h
-  - Vendor lock-in  h
+  - Serverless: 👂 heard
+  - Vendor lock-in: 👂 heard
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design h
+  - System design: 👂 heard
   - Process modelling
   - Data modelling
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds h
+  - Clouds: 👂 heard
   - BPMN
-  - Low-code h
-  - No-code h
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
   - Metric
   - Metric abuse
   - ACID
@@ -90,7 +90,7 @@
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope h
+  - Project scope: 👂 heard
   - Enterprise service bus
   - Service-oriented architecture
   - Microservices

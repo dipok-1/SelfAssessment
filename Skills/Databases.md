@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types !
+  - Data types: 🙋 explained
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
   - Relational databases
-  - Key-value store !
+  - Key-value store: 🙋 explained
   - Tuple store
   - Graph databases
-  - Object databases *
+  - Object databases: 🖐️ used
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -22,29 +22,29 @@
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram !
+  - Entity-Relationship Diagram: 🙋 explained
   - Normal forms
-  - Indexing k
-  - Primary keys k
-  - Foreign keys k
+  - Indexing: 🎓 known
+  - Primary keys: 🎓 known
+  - Foreign keys: 🎓 known
   - Transactions
-  - Views k
+  - Views: 🎓 known
   - Subqueries
   - Stored procedures
-  - SQL functions k
+  - SQL functions: 🎓 known
   - Materialized views
   - Replications
-  - Virtualization h
+  - Virtualization: 👂 heard
 - SQL
-  - `SELECT` k
-  - `INSERT` k
-  - `UPDATE` k
-  - `DELETE` k
+  - `SELECT`: 🎓 known
+  - `INSERT`: 🎓 known
+  - `UPDATE`: 🎓 known
+  - `DELETE`: 🎓 known
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` k
-  - `GROUP BY` k
-  - `HAVING`   k
+  - `ORDER BY`: 🎓 known
+  - `GROUP BY`: 🎓 known
+  - `HAVING`: 🎓 known
   - `EXISTS`
   - `JOIN`
   - `INNER JOIN`
@@ -52,15 +52,15 @@
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE` k
-  - `LIKE` k
+  - `WHERE`: 🎓 known
+  - `LIKE`: 🎓 known
   - `IN`
-  - `BETWEEN` k
-  - `CREATE TABLE` k
-  - `ALTER TABLE` k
-  - `DROP TABLE` k
-  - `PRIMARY KEY` k
-  - `FOREIGN KEY` k
+  - `BETWEEN`: 🎓 known
+  - `CREATE TABLE`: 🎓 known
+  - `ALTER TABLE`: 🎓 known
+  - `DROP TABLE`: 🎓 known
+  - `PRIMARY KEY`: 🎓 known
+  - `FOREIGN KEY`: 🎓 known
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -70,25 +70,25 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL h
-  - Oracle h
-  - MySQL k
+  - PostgreSQL: 👂 heard
+  - Oracle: 👂 heard
+  - MySQL: 🎓 known
   - MariaDB
   - MS SQL Server
-  - Redis h
+  - Redis: 👂 heard
   - Rabbit
-  - MongoDB *
+  - MongoDB: 🖐️ used
   - Memcached
   - Riak
   - DB2
-  - SQLite h
-  - DynamoDB h
-  - Firebase h
+  - SQLite: 👂 heard
+  - DynamoDB: 👂 heard
+  - Firebase: 👂 heard
 - Data engineering
   - Data warehousing
   - Business intelligence
   - Big data
   - Data analysis
   - AI tools
-  - Cloud databases h
-  - Data Visualization h
+  - Cloud databases: 👂 heard
+  - Data Visualization: 👂 heard

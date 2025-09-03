@@ -5,7 +5,7 @@
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax !
+  - Syntax: 🙋 explained
   - Semantics
   - Abstraction
   - Paradigm
@@ -14,33 +14,33 @@
   - Programming language
   - Contract
   - Module
-  - Library *
-  - Package k
+  - Library: 🖐️ used
+  - Package: 🎓 known
   - Component
-  - Framework *
+  - Framework: 🖐️ used
   - Platform
-  - Source code k
+  - Source code: 🎓 known
   - Object code
   - Machine code
   - Microcode
   - Software engineering
   - Decomposition
-  - Control flow k
-  - Data flow k
-  - Code reuse k
+  - Control flow: 🎓 known
+  - Data flow: 🎓 known
+  - Code reuse: 🎓 known
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
   - Value
-  - Identifier *
-  - Variable *
-  - Constant *
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
-  - Literal *
-  - Expression *
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function *
+  - Function: 🖐️ used
   - Procedure
   - Method
   - Class
@@ -53,27 +53,27 @@
   - Conditions
   - Loops
   - Assignment
-  - Regular expression *
+  - Regular expression: 🖐️ used
   - Interface
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case k
+  - Camel case: 🎓 known
   - Snake case
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types *
+  - Primitive types: 🖐️ used
   - Reference types
   - Type systems
   - Strong typing
   - Weak typing
   - Duck typing
-  - Static typing *
-  - Dynamic typing *
+  - Static typing: 🖐️ used
+  - Dynamic typing: 🖐️ used
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument *
-  - Parameter *
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
   - Pure function
   - Lambda expression
   - Side effects
@@ -93,7 +93,7 @@
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback *
+  - Callback: 🖐️ used
   - Listener
   - Composition
   - Pipe
@@ -105,44 +105,44 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array *
-  - Structure k
+  - Array: 🖐️ used
+  - Structure: 🎓 known
   - Record
-  - Enum h
+  - Enum: 👂 heard
   - Instance
-  - Object *
+  - Object: 🖐️ used
   - Collection
-  - Set k
-  - Hash table h
-  - Linked list k
-  - Doubly list k
+  - Set: 🎓 known
+  - Hash table: 👂 heard
+  - Linked list: 🎓 known
+  - Doubly list: 🎓 known
   - Unrolled list
   - Circular list
-  - Queue k
-  - Stack k
-  - Deque k
-  - Tree k
-  - Graph k
+  - Queue: 🎓 known
+  - Stack: 🎓 known
+  - Deque: 🎓 known
+  - Tree: 🎓 known
+  - Graph: 🎓 known
   - Iterator
-  - Mutable state k
-  - Immutable state k
-  - Serialization *
-  - String parsing *
-  - JSON *
+  - Mutable state: 🎓 known
+  - Immutable state: 🎓 known
+  - Serialization: 🖐️ used
+  - String parsing: 🖐️ used
+  - JSON: 🖐️ used
   - JSON5
-  - YAML h
+  - YAML: 👂 heard
 - Networking
-  - DNS k
+  - DNS: 🎓 known
   - CDN
-  - CORS *
-  - IPv4 k
-  - IPv6 k
+  - CORS: 🖐️ used
+  - IPv4: 🎓 known
+  - IPv6: 🎓 known
   - NAT
   - URL
   - URN
-  - URI k
+  - URI: 🎓 known
 - Process and tools
-  - Compiler k
+  - Compiler: 🎓 known
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,8 +152,8 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime k
-  - Virtual machine k
+  - Runtime: 🎓 known
+  - Virtual machine: 🎓 known
   - Register-based VM
   - Stack-based VM
   - Containerization
@@ -165,9 +165,9 @@
   - Exception
   - Unittesting
   - git
-  - Github *
-  - Docker h
-  - Kubernetes h
+  - Github: 🖐️ used
+  - Docker: 👂 heard
+  - Kubernetes: 👂 heard
   - GCC
   - LLVM
 - Antipatterns
@@ -222,7 +222,7 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII k
+  - ASCII: 🎓 known
   - Escape sequence
   - RFC
   - IETF

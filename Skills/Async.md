@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop !
-  - `try..catch` *
-  - Non-blocking *
-  - Async I/O !
+  - Event loop: 🙋 explained
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 🖐️ used
+  - Async I/O: 🙋 explained
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -22,11 +22,11 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks !
+  - Callbacks: 🙋 explained
   - Callback-last-error-first
   - Thenable
-  - Promise !
-  - Async/await !
+  - Promise: 🙋 explained
+  - Async/await: 🙋 explained
   - Future
   - Deferred
   - Sync generator
@@ -38,16 +38,16 @@
   - Signal
   - Stream
   - Chain of responsibility
-  - Middleware !
+  - Middleware: 🙋 explained
   - Locks
 - Async adapters and utils
   - callbackify
-  - promisify !
-  - asyncify !
+  - promisify: 🙋 explained
+  - asyncify: 🙋 explained
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter h
+  - EventEmitter: 👂 heard
   - Observable/Observer
   - Readable
   - Writable
@@ -59,19 +59,19 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers *
-  - `setImmediate` h
-  - `nextTick` h
+  - Timers: 🖐️ used
+  - `setImmediate`: 👂 heard
+  - `nextTick`: 👂 heard
   - AbortController
   - AbortSignal
-  - Promise unhandled rejection *
+  - Promise unhandled rejection: 🖐️ used
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell !
-  - Promise hell !
-  - ref() and unref() h
-  - Error handling in async code *
+  - Callback hell: 🙋 explained
+  - Promise hell: 🙋 explained
+  - ref() and unref(): 👂 heard
+  - Error handling in async code: 🖐️ used
   - Better stack traces with return await
   - JSON streaming serialization
   - AsyncLocalStorage
@@ -79,8 +79,8 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all *
-  - Promise.allSettled h
+  - Promise.all: 🖐️ used
+  - Promise.allSettled: 👂 heard
   - Promise.race
   - Promise.any
   - Web Locks API

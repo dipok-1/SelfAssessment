@@ -1,55 +1,55 @@
 ## JavaScript
 
 - Language
-  - `Object` !
-  - `Function` !
-  - `Boolean` !
-  - `Number` !
-  - `BigInt` k
-  - `String` !
-  - `Symbol` h
-  - `Infinity` h
-  - `NaN` !
-  - `undefined` !
-  - `null`!
+  - `Object`: 🙋 explained
+  - `Function`: 🙋 explained
+  - `Boolean`: 🙋 explained
+  - `Number`: 🙋 explained
+  - `BigInt`: 🎓 known
+  - `String`: 🙋 explained
+  - `Symbol`: 👂 heard
+  - `Infinity`: 👂 heard
+  - `NaN`: 🙋 explained
+  - `undefined`: 🙋 explained
+  - `null`: 🙋 explained
   - `this`
-  - `instanceof` h
-  - `...spread`!
+  - `instanceof`: 👂 heard
+  - `...spread`: 🙋 explained
   - `...rest`
-  - `typeof`!
-  - Destructuring !
-  - Generators h
-  - Iterators h
+  - `typeof`: 🙋 explained
+  - Destructuring: 🙋 explained
+  - Generators: 👂 heard
+  - Iterators: 👂 heard
   - Async generator
   - Async iterator
-  - Chaining k
+  - Chaining: 🎓 known
   - Optional chaining
   - IIFE
   - Async IIFE
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters h
+  - Getters and setters: 👂 heard
   - `__proto__`
   - `prototype`
-  - Equality operators !
-  - Logical operators !
-  - Logical Assignment !
-  - Bitwise operators !
-  - Ternary operator !
-  - `void` k
-  - `yield` k
-  - `await` !
-  - Template literal *
-  - Strict mode h
-  - Hoisting 
+  - Equality operators: 🙋 explained
+  - Logical operators: 🙋 explained
+  - Logical Assignment: 🙋 explained
+  - Bitwise operators: 🙋 explained
+  - Ternary operator: 🙋 explained
+  - `void`: 🎓 known
+  - `yield`: 🎓 known
+  - `await`: 🙋 explained
+  - Template literal: 🖐️ used
+  - Strict mode: 👂 heard
+  - Hoisting
   - `delete`
   - `in`
   - `super`
   - `eval`
   - `static`
-  - `Number.parseInt`!
-  - `Number.parseFloat`!
+  - `Number.parseInt`: 🙋 explained
+  - `Number.parseFloat`: 🙋 explained
   - Property descriptors
   - Sealing properties
   - Freezing properties
@@ -59,39 +59,39 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`!
-  - `while`!
-  - `do..while`!
-  - `for`!
-  - `for..in`!
-  - `for..of`!
+  - `if`: 🙋 explained
+  - `while`: 🙋 explained
+  - `do..while`: 🙋 explained
+  - `for`: 🙋 explained
+  - `for..in`: 🙋 explained
+  - `for..of`: 🙋 explained
   - `for await`k
   - `throw`k
-  - `break`!
-  - `continue`!
-  - `import`*
-  - `export`*
+  - `break`: 🙋 explained
+  - `continue`: 🙋 explained
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
   - `label`k
-  - `try..catch`*
+  - `try..catch`: 🖐️ used
   - `switch`k
   - `class`k
   - `extends`
   - `with`
-  - `new` *
+  - `new`: 🖐️ used
 - Functions
-  - Arrow function !
-  - Async function !
-  - Function declaration !
-  - Function expression !
-  - Default parameters !
-  - Functional object h
+  - Arrow function: 🙋 explained
+  - Async function: 🙋 explained
+  - Function declaration: 🙋 explained
+  - Function expression: 🙋 explained
+  - Default parameters: 🙋 explained
+  - Functional object: 👂 heard
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`!
+  - `return`: 🙋 explained
 - Data structures
-  - `Array`!
-  - `Map`*
+  - `Array`: 🙋 explained
+  - `Map`: 🖐️ used
   - `Set`k
   - `WeakMap`
   - `WeakSet`
@@ -101,22 +101,22 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date`*
-  - `Math`*
+  - `Date`: 🖐️ used
+  - `Math`: 🖐️ used
   - `Reflect`
   - `Error`k
   - `Atomics`
-  - `JSON`!
+  - `JSON`: 🙋 explained
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`!
-  - `console`*
-  - Timers *
+  - `Promise`: 🙋 explained
+  - `console`: 🖐️ used
+  - Timers: 🖐️ used
 - Infrastructure
   - V8
-  - Node.js !
-  - npm *
-  - prettier h 
-  - MDN *
+  - Node.js: 🙋 explained
+  - npm: 🖐️ used
+  - prettier: 👂 heard
+  - MDN: 🖐️ used
   - TC39
