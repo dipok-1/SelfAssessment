@@ -5,7 +5,7 @@
   - Modeling
   - Subject domain
   - Algorithm
-  - Syntax
+  - Syntax !
   - Semantics
   - Abstraction
   - Paradigm
@@ -14,33 +14,33 @@
   - Programming language
   - Contract
   - Module
-  - Library
-  - Package
+  - Library *
+  - Package k
   - Component
-  - Framework
+  - Framework *
   - Platform
-  - Source code
+  - Source code k
   - Object code
   - Machine code
   - Microcode
   - Software engineering
   - Decomposition
-  - Control flow
-  - Data flow
-  - Code reuse
+  - Control flow k
+  - Data flow k
+  - Code reuse k
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
   - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Identifier *
+  - Variable *
+  - Constant *
   - Scalar
-  - Literal
-  - Expression
+  - Literal *
+  - Expression *
   - Heap
-  - Function
+  - Function *
   - Procedure
   - Method
   - Class
@@ -53,27 +53,27 @@
   - Conditions
   - Loops
   - Assignment
-  - Regular expression
+  - Regular expression *
   - Interface
   - Namespaces
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
+  - Camel case k
   - Snake case
   - Kebab case
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types *
   - Reference types
   - Type systems
   - Strong typing
   - Weak typing
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing *
+  - Dynamic typing *
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument *
+  - Parameter *
   - Pure function
   - Lambda expression
   - Side effects
@@ -93,7 +93,7 @@
   - Higher order
   - Recursion
   - Tail call optimisation
-  - Callback
+  - Callback *
   - Listener
   - Composition
   - Pipe
@@ -105,44 +105,44 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array *
+  - Structure k
   - Record
-  - Enum
+  - Enum h
   - Instance
-  - Object
+  - Object *
   - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
+  - Set k
+  - Hash table h
+  - Linked list k
+  - Doubly list k
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
+  - Queue k
+  - Stack k
+  - Deque k
+  - Tree k
+  - Graph k
   - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Mutable state k
+  - Immutable state k
+  - Serialization *
+  - String parsing *
+  - JSON *
   - JSON5
-  - YAML
+  - YAML h
 - Networking
-  - DNS
+  - DNS k
   - CDN
-  - CORS
-  - IPv4
-  - IPv6
+  - CORS *
+  - IPv4 k
+  - IPv6 k
   - NAT
   - URL
   - URN
-  - URI
+  - URI k
 - Process and tools
-  - Compiler
+  - Compiler k
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,8 +152,8 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime k
+  - Virtual machine k
   - Register-based VM
   - Stack-based VM
   - Containerization
@@ -165,9 +165,9 @@
   - Exception
   - Unittesting
   - git
-  - Github
-  - Docker
-  - Kubernetes
+  - Github *
+  - Docker h
+  - Kubernetes h
   - GCC
   - LLVM
 - Antipatterns
@@ -222,7 +222,7 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII k
   - Escape sequence
   - RFC
   - IETF
