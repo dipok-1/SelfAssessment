@@ -2,13 +2,13 @@
 
 - Core Concepts and Internals
   - Strengths and weaknesses of .NET
-  - Stateful and stateless services
-  - Asynchronous and synchronous programming
+  - Stateful and stateless services *
+  - Asynchronous and synchronous programming !
   - Task-based asynchronous pattern
   - Garbage collection in .NET
   - .NET runtime versions and support
-  - I/O-bound, CPU-bound tasks
-  - Real-time applications with SignalR
+  - I/O-bound, CPU-bound tasks !
+  - Real-time applications with SignalR 
 - Modularity and Dependencies
   - .NET assemblies
   - NuGet package management
@@ -19,13 +19,13 @@
   - Middleware and pipeline configuration
   - Modular applications
 - Environment and Tools
-  - Command line interface (CLI) tools
+  - Command line interface (CLI) tools *
   - .NET CLI
   - Windows Services and Linux Daemons
-  - Hosting and Deployment models
+  - Hosting and Deployment models *
   - IIS and Kestrel web server
-  - Environment variables and configuration
-  - File system I/O operations
+  - Environment variables and configuration *
+  - File system I/O operations *
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
@@ -37,16 +37,16 @@
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
-  - WebSockets for real-time communication
-  - TCP/UDP networking
-  - SSL/TLS for secure connections
+  - HTTP/HTTPS support k
+  - WebSockets for real-time communication *
+  - TCP/UDP networking h
+  - SSL/TLS for secure connections h
   - Efficient network communication with `gRPC`
   - HTTP/2 and HTTP/3 support
-  - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML)
+  - Network security (DDoS, XSS, CSRF prevention) h
+  - Serialization and deserialization (JSON, XML) k
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit
+  - Unit testing with frameworks like xUnit, NUnit h
   - Integration testing
   - Logging and tracing
   - Application monitoring and telemetry
@@ -72,11 +72,11 @@
   - .NET for `WebAssembly`
   - Custom middleware development
 - Cloud and Microservices
-  - Integration with cloud platforms (Azure, AWS)
-  - Microservices architecture
-  - Containerization with Docker
-  - Kubernetes for orchestration
-  - Serverless computing
+  - Integration with cloud platforms (Azure, AWS) h
+  - Microservices architecture h
+  - Containerization with Docker h
+  - Kubernetes for orchestration h
+  - Serverless computing h
 - C# Development
   - C# syntax and language fundamentals
   - Advanced C# features (LINQ, async/await, delegates, events)
@@ -103,7 +103,7 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals
+  - C++ syntax and language fundamentals *
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
   - `C++/CLI` syntax and usage
@@ -125,4 +125,4 @@
   - ASP.NET Core
   - Blazor
   - Razor Syntax
-  - RESTful API development
+  - RESTful API development *
