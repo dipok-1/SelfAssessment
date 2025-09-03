@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
+  - Event loop !
+  - `try..catch` *
+  - Non-blocking *
+  - Async I/O !
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -22,11 +22,11 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks !
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise !
+  - Async/await !
   - Future
   - Deferred
   - Sync generator
@@ -38,16 +38,16 @@
   - Signal
   - Stream
   - Chain of responsibility
-  - Middleware
+  - Middleware !
   - Locks
 - Async adapters and utils
   - callbackify
-  - promisify
-  - asyncify
+  - promisify !
+  - asyncify !
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter h
   - Observable/Observer
   - Readable
   - Writable
@@ -59,19 +59,19 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
-  - `nextTick`
+  - Timers *
+  - `setImmediate` h
+  - `nextTick` h
   - AbortController
   - AbortSignal
-  - Promise unhandled rejection
+  - Promise unhandled rejection *
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
-  - ref() and unref()
-  - Error handling in async code
+  - Callback hell !
+  - Promise hell !
+  - ref() and unref() h
+  - Error handling in async code *
   - Better stack traces with return await
   - JSON streaming serialization
   - AsyncLocalStorage
@@ -79,8 +79,8 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all
-  - Promise.allSettled
+  - Promise.all *
+  - Promise.allSettled h
   - Promise.race
   - Promise.any
   - Web Locks API
