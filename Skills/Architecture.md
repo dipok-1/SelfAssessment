@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
+  - Separation of concerns u
   - Inversion of Control
   - Dependency Injection
   - GoF Creational
@@ -12,7 +12,7 @@
   - CQS
   - Modularity
   - Subsystems
-  - Directories
+  - Directories u
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
@@ -23,62 +23,62 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability  ~ 
+  - Quality   ~ 
+  - Availability  ~ 
+  - Flexibility  ~ 
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
+  - Isolation between layer *
+  - Domain-specific language (DSL) *
+  - System vs applied code *
+  - Multilayer approach !
   - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC) *
   - Metaprogramming
   - Inversion of control (IoC)
   - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
+  - Clean architecture *
+  - Domain-driven design (DDD) *
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
   - Message Queue (MQ)
-  - CQRS
+  - CQRS *
   - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
   - UML
-  - Work breakdown structure
-  - Budget estimation
+  - Work breakdown structure *
+  - Budget estimation h
   - Distributed systems
   - High-intensive computing
-  - Load balancing
+  - Load balancing h
   - Gateways
-  - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
+  - On-premises h
+  - IaaS h
+  - PaaS h
+  - SaaS h
   - FaaS clouds
-  - Serverless
-  - Vendor lock-in
+  - Serverless h
+  - Vendor lock-in  h
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design h
   - Process modelling
   - Data modelling
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds h
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code h
+  - No-code h
   - Metric
   - Metric abuse
   - ACID
@@ -90,7 +90,7 @@
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope h
   - Enterprise service bus
   - Service-oriented architecture
   - Microservices
