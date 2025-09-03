@@ -1,24 +1,24 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
+  - Strong and weak sides of node.js h
+  - Stateful and stateless servers *
+  - Nonblocking I/O and blocking code h
+  - Event loop phases h
+  - Event loop microtasks and macrotasks 
   - Garbage collection
   - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
+  - I/O-bound, CPU-bound, memory-bound tasks h
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules *
+  - ECMAScript modules *
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules`*
+  - Files `package.json`, `package-lock.json`*
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,7 +26,7 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments *
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -57,7 +57,7 @@
   - Module `node:url` vs `new URL`
   - Module `node:assert`
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer`
+  - Blob, File, Buffer, module `node:buffer` k
   - Module `node:zlib`
 - Network
   - Endpoint throttling
@@ -65,19 +65,19 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API *
   - IncomingMessage
   - HTTP(S)
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket
+  - Websocket *
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST *
   - RPC
-  - Routing
+  - Routing *
   - DoS
   - DDoS
   - XSS
@@ -107,7 +107,7 @@
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
+  - CRUD *
   - DTO
 - Error handling and debugging
   - `Error`
