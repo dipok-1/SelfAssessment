@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types !
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
   - Relational databases
-  - Key-value store
+  - Key-value store !
   - Tuple store
   - Graph databases
-  - Object databases
+  - Object databases *
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -22,29 +22,29 @@
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram
+  - Entity-Relationship Diagram !
   - Normal forms
-  - Indexing
-  - Primary keys
-  - Foreign keys
+  - Indexing k
+  - Primary keys k
+  - Foreign keys k
   - Transactions
-  - Views
+  - Views k
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions k
   - Materialized views
   - Replications
-  - Virtualization
+  - Virtualization h
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` k
+  - `INSERT` k
+  - `UPDATE` k
+  - `DELETE` k
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
-  - `HAVING`
+  - `ORDER BY` k
+  - `GROUP BY` k
+  - `HAVING`   k
   - `EXISTS`
   - `JOIN`
   - `INNER JOIN`
@@ -52,15 +52,15 @@
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
+  - `WHERE` k
+  - `LIKE` k
   - `IN`
-  - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `BETWEEN` k
+  - `CREATE TABLE` k
+  - `ALTER TABLE` k
+  - `DROP TABLE` k
+  - `PRIMARY KEY` k
+  - `FOREIGN KEY` k
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -70,25 +70,25 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
-  - Oracle
-  - MySQL
+  - PostgreSQL h
+  - Oracle h
+  - MySQL k
   - MariaDB
   - MS SQL Server
-  - Redis
+  - Redis h
   - Rabbit
-  - MongoDB
+  - MongoDB *
   - Memcached
   - Riak
   - DB2
-  - SQLite
-  - DynamoDB
-  - Firebase
+  - SQLite h
+  - DynamoDB h
+  - Firebase h
 - Data engineering
   - Data warehousing
   - Business intelligence
   - Big data
   - Data analysis
   - AI tools
-  - Cloud databases
-  - Data Visualization
+  - Cloud databases h
+  - Data Visualization h
