@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
+  - Separation of concerns: 🖐️ used
   - Inversion of Control
   - Dependency Injection
   - GoF Creational
@@ -12,7 +12,7 @@
   - CQS
   - Modularity
   - Subsystems
-  - Directories
+  - Directories: 🖐️ used
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
@@ -23,62 +23,62 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
+  - Isolation between layer: 🖐️ used
+  - Domain-specific language (DSL): 🖐️ used
+  - System vs applied code: 🖐️ used
+  - Multilayer approach: 🙋 explained
   - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC): 🖐️ used
   - Metaprogramming
   - Inversion of control (IoC)
   - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
+  - Clean architecture: 🖐️ used
+  - Domain-driven design (DDD): 🖐️ used
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
   - Message Queue (MQ)
-  - CQRS
+  - CQRS: 🖐️ used
   - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
   - UML
-  - Work breakdown structure
-  - Budget estimation
+  - Work breakdown structure: 🖐️ used
+  - Budget estimation: 👂 heard
   - Distributed systems
   - High-intensive computing
-  - Load balancing
+  - Load balancing: 👂 heard
   - Gateways
-  - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
+  - On-premises: 👂 heard
+  - IaaS: 👂 heard
+  - PaaS: 👂 heard
+  - SaaS: 👂 heard
   - FaaS clouds
-  - Serverless
-  - Vendor lock-in
+  - Serverless: 👂 heard
+  - Vendor lock-in: 👂 heard
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design: 👂 heard
   - Process modelling
   - Data modelling
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds: 👂 heard
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
   - Metric
   - Metric abuse
   - ACID
@@ -90,7 +90,7 @@
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope: 👂 heard
   - Enterprise service bus
   - Service-oriented architecture
   - Microservices

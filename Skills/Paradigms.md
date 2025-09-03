@@ -27,21 +27,21 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
+  - Constructor: 🎓 known
+  - Operator `new`: 👂 heard
   - Static method
   - Method
-  - Async method
-  - Getters, Setters
+  - Async method: 🙋 explained
+  - Getters, Setters: 👂 heard
   - Public fields
   - Private fields
   - Field declarations
-  - Inheritance
+  - Inheritance: 👂 heard
   - Parent class
-  - Polymorphism
-  - Abstract class
+  - Polymorphism: 👂 heard
+  - Abstract class: 👂 heard
   - Interface
-  - Encapsulation
+  - Encapsulation: 👂 heard
   - Hidden class
   - Object form
   - Instance

@@ -1,24 +1,24 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases
+  - Strong and weak sides of node.js: 👂 heard
+  - Stateful and stateless servers: 🖐️ used
+  - Nonblocking I/O and blocking code: 👂 heard
+  - Event loop phases: 👂 heard
   - Event loop microtasks and macrotasks
   - Garbage collection
   - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
+  - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,7 +26,7 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments: 🖐️ used
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -57,7 +57,7 @@
   - Module `node:url` vs `new URL`
   - Module `node:assert`
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer`
+  - Blob, File, Buffer, module `node:buffer`: 🎓 known
   - Module `node:zlib`
 - Network
   - Endpoint throttling
@@ -65,19 +65,19 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API: 🖐️ used
   - IncomingMessage
   - HTTP(S)
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket
+  - Websocket: 🖐️ used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🖐️ used
   - RPC
-  - Routing
+  - Routing: 🖐️ used
   - DoS
   - DDoS
   - XSS
@@ -107,7 +107,7 @@
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
+  - CRUD: 🖐️ used
   - DTO
 - Error handling and debugging
   - `Error`

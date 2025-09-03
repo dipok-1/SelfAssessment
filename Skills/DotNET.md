@@ -2,12 +2,12 @@
 
 - Core Concepts and Internals
   - Strengths and weaknesses of .NET
-  - Stateful and stateless services
-  - Asynchronous and synchronous programming
+  - Stateful and stateless services: 🖐️ used
+  - Asynchronous and synchronous programming: 🙋 explained
   - Task-based asynchronous pattern
   - Garbage collection in .NET
   - .NET runtime versions and support
-  - I/O-bound, CPU-bound tasks
+  - I/O-bound, CPU-bound tasks: 🙋 explained
   - Real-time applications with SignalR
 - Modularity and Dependencies
   - .NET assemblies
@@ -19,13 +19,13 @@
   - Middleware and pipeline configuration
   - Modular applications
 - Environment and Tools
-  - Command line interface (CLI) tools
+  - Command line interface (CLI) tools: 🖐️ used
   - .NET CLI
   - Windows Services and Linux Daemons
-  - Hosting and Deployment models
+  - Hosting and Deployment models: 🖐️ used
   - IIS and Kestrel web server
-  - Environment variables and configuration
-  - File system I/O operations
+  - Environment variables and configuration: 🖐️ used
+  - File system I/O operations: 🖐️ used
   - Multithreading with Task Parallel Library (TPL)
   - Performance monitoring and diagnostics
 - APIs and Framework Features
@@ -37,16 +37,16 @@
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
-  - WebSockets for real-time communication
-  - TCP/UDP networking
-  - SSL/TLS for secure connections
+  - HTTP/HTTPS support: 🎓 known
+  - WebSockets for real-time communication: 🖐️ used
+  - TCP/UDP networking: 👂 heard
+  - SSL/TLS for secure connections: 👂 heard
   - Efficient network communication with `gRPC`
   - HTTP/2 and HTTP/3 support
-  - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML)
+  - Network security (DDoS, XSS, CSRF prevention): 👂 heard
+  - Serialization and deserialization (JSON, XML): 🎓 known
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit
+  - Unit testing with frameworks like xUnit, NUnit: 👂 heard
   - Integration testing
   - Logging and tracing
   - Application monitoring and telemetry
@@ -72,11 +72,11 @@
   - .NET for `WebAssembly`
   - Custom middleware development
 - Cloud and Microservices
-  - Integration with cloud platforms (Azure, AWS)
-  - Microservices architecture
-  - Containerization with Docker
-  - Kubernetes for orchestration
-  - Serverless computing
+  - Integration with cloud platforms (Azure, AWS): 👂 heard
+  - Microservices architecture: 👂 heard
+  - Containerization with Docker: 👂 heard
+  - Kubernetes for orchestration: 👂 heard
+  - Serverless computing: 👂 heard
 - C# Development
   - C# syntax and language fundamentals
   - Advanced C# features (LINQ, async/await, delegates, events)
@@ -103,7 +103,7 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals
+  - C++ syntax and language fundamentals: 🖐️ used
   - Interoperability between managed (.NET) and unmanaged (native) code
   - Memory management in mixed environments
   - `C++/CLI` syntax and usage
@@ -125,4 +125,4 @@
   - ASP.NET Core
   - Blazor
   - Razor Syntax
-  - RESTful API development
+  - RESTful API development: 🖐️ used
